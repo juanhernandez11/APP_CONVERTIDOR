@@ -1,1 +1,7 @@
 /* You can add global styles to this file, and also import other style files */
+body{
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+    background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(https://img.freepik.com/foto-gratis/arte-acuarela-unico-textura-papel_23-2149033933.jpg?t=st=1710043902~exp=1710047502~hmac=70a1e3571d5d77a8998a3b87a8958b3cc7c4f9194c21e3da018696ff275082c0&w=360);
+}
